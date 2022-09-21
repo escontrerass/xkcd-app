@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tabler/icons": "^1.96.0",
+    "algoliasearch": "4.14.2",
     "next": "12.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-responsive-masonry": "^2.1.5"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.11",

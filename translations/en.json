@@ -1,0 +1,11 @@
+{
+  "LATEST_COMICS": "Latest comics",
+  "HOME": "Home",
+  "SEARCH_RESULT": "${1} Results for -${2}-",
+  "LANGUAGE": "Language - ${1}",
+  "SEARCH": "Search your comic",
+  "PREVIOUS": "Previous",
+  "NEXT": "Next",
+  "POWER_BY": "Power by",
+  "DEVELOPED_BY": "Developed by"
+}
